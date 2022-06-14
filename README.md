@@ -1,6 +1,6 @@
 ### Hi there, i'm John 👋
 
-- 💼 I currently work as a principal front end developer for [@cardlytics](https://github.com/cardlytics)
+- 💼 I currently work as a principal software developer
 - 😄 Pronouns: he/him
 - 💬 Ask me about vue.js, ci/cd, and user experience
 - 📫 How to reach me: hi@johnberger.dev
