@@ -2,9 +2,9 @@
 
 - 💼 I currently work as a principal full-stack engineer at [DEPT®](https://www.deptagency.com/)
 - 😄 Pronouns: he/him
-- 💬 Ask me about vue.js, ci/cd, and user experience
 - 📫 How to reach me: hi@johnberger.dev
 
+#### My skills:
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
