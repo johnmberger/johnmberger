@@ -1,10 +1,10 @@
 ### Hi there, i'm John 👋
 
-- 💼 I currently work as a principal full-stack engineer at [DEPT®](https://www.deptagency.com/)
-- 😄 Pronouns: he/him
+- 💼 I currently work as a front end developer at [Groundfloor](https://groundfloor.us/)
+- 🌎 Based in Atlanta
 - 📫 How to reach me: hi@johnberger.dev
 
-#### My skills:
+#### My favorite tech:
 ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white)
