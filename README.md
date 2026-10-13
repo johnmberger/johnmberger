@@ -1,6 +1,6 @@
 ### Hi there, i'm John 👋
 
-- 💼 I currently work as a full stack developer at [Warner Brothers Discovery](https://www.wbd.com/)
+- 💼 I currently work as a full stack developer at ~~[Warner Brothers Discovery](https://www.wbd.com/)~~ [Skydance](https://www.skydance.com/)
 - 🌎 Based in Atlanta
 - 📫 How to reach me: hi@johnberger.dev
 
